@@ -1,4 +1,8 @@
+
 # devcontainer-go
+
+> ⚠️ **Notice**
+> This project is no longer maintained.
 
 A Go 1.24 library for interpreting VS Code `devcontainer.json` files and turning them into runnable `docker run` configurations or fully managed container lifecycles. It is designed for agents and automation that need to reason about devcontainers without shelling out to the VS Code CLI.
 
